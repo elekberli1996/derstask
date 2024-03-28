@@ -85,16 +85,16 @@
 // 5 userin daxil etdiyi qiymet
 
 // let qiymet=+prompt("qiymetinizi daxil edin (0-100);")
-// if(qiymet>=90 && qiymet<=100){
+// if(qiymet>90 && qiymet<=100){
 //     alert("Qiymetiniz : Ela");
 // }
-// else if(qiymet>=75 && qiymet<=90){
+// else if(qiymet>75 && qiymet<=90){
 //     alert("Qiymetiniz : Yaxsi");
 // }
-// else if(qiymet>=55 && qiymet<=75){
+// else if(qiymet>55 && qiymet<=75){
 //     alert("Qiymetiniz : Orta");
 // }
-// else if(qiymet>=35 && qiymet<=55){
+// else if(qiymet>35 && qiymet<=55){
 //     alert("Qiymetiniz : Pis");
 // }
 // else{
